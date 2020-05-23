@@ -1,0 +1,1 @@
+java --module-path C:\Users\Krzysiek\Downloads\javafx-sdk-11.0.2\lib --add-modules javafx.controls -jar .\Akordeon-0.0.1-SNAPSHOT.jar
